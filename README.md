@@ -78,17 +78,19 @@
 ## 🚀 Featured Projects
 
 - 🔹 **[Minesweeper Multiplayer](#)**  
- My first serious, for fun project, allowing many players to player minesweeper together or against each other. Written purely in vanilla js at the time... You'll be lucky if it still works tho as i keep changing my server config and breaking the sockets.
+ My first serious, for fun project, allowing many players to play minesweeper together or against each other. Written purely in vanilla js at the time... for some reason i thought it was fun... Might br broken tho, i keep changing my server config and breaking the sockets.
 
 - 🔹 **[Color Game](https://chocolatevs.github.io/Color-Game/)**  
   One of many random games you'll find around here
 
 - 🔹 **[itsallauto.com](https://inspections.itsallauto.com)**  
-  _An automotive software company. I have managed the software development side the company, to build fully fledged work shop management and electronic warrant of fitness software used all over the country (NZ)._
+  An automotive software company. I have managed the software development side the company, to build fully fledged work shop management and electronic warrant of fitness software used all over the country (NZ).
 
 ---
 
 ---
 <p align="center">
-  <i>Woah someone is here!</i><br/
+  <i>Woah someone is here! {Inject Gitlab stats here}, i don't use github much anymore :(</i><br/
+
+  OPEN_AI_API_KEY='sk-projsdf879s8dffhsdf934fshf3422e2r2342sdfsdf2'
 </p>

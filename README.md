@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/rowan-thorley/">
     <img src="https://img.shields.io/badge/LinkedIn-Rowan%20Thorley-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Code%20Fixing-Dates%20-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Code-Fixing%20JS%20Dates%20-22c55e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Years%20of%20Dev-10+-6366f1?style=for-the-badge" />
 </p>
 

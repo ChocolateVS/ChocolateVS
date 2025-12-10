@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/rowan-thorley/">
     <img src="https://img.shields.io/badge/LinkedIn-Rowan%20Thorley-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Code-Never%20Shipping-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fixing-Dates%20-22c55e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Years%20of%20Dev-10+-6366f1?style=for-the-badge" />
 </p>
 
@@ -23,7 +23,7 @@
 - <a href="https://chocolatevs.github.io/Project-Archive/chocolatevs.html">ChocolateVS...</a> My first website, and xp with git, Comparing some chocolate... (2016)
 - Probably playing 🎸
 - Too poor to afford chocolate these days :(
--  Currently working on itsallauto.com with dad <a href="https://www.linkedin.com/in/glenn-thorley-80239423/?originalSubdomain=n">Glenn Thorley (LinkedIn)</a> (2022-Pres)
+- Currently working on itsallauto.com with dad <a href="https://www.linkedin.com/in/glenn-thorley-80239423/?originalSubdomain=n">Glenn Thorley (LinkedIn)</a> (2022-Pres). Automotive work shop management and electronic warrant of fitness software used all over the country (NZ)
 - MR > PR (ง •̀_•́)ง
 
 ---

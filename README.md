@@ -19,7 +19,7 @@
 ---
 
 ## About Me
-- Fullstack developer - Web/Api/CiCd/Infra
+- Fullstack developer - Web/Api/CiCd/DevOps/Infra
 - <a href="https://chocolatevs.github.io/Project-Archive/chocolatevs.html">ChocolateVS...</a> My first website, and xp with git, Comparing some chocolate... (2016)
 - Probably playing 🎸
 - Too poor to afford chocolate these days :(

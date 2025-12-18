@@ -4,7 +4,7 @@
 <h3 align="center">Dev • Leader • Founder @ <a href="https://itsallauto.com" target="_blank">itsallauto.com</a> 
 
 <p align="center">
-  <em>Welcome to my history... 10+ years of <strike>building cool software</strike> breaking prod since 2016.<br/>
+  <em>Welcome to my history... 10+ years of <strike>building cool software</strike> breaking prod<br/>
   Beware of cringe codes...</em>
 </p>
 
